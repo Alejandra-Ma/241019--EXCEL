@@ -21,3 +21,4 @@ Este conjunto de datos contiene...   ESTO ES UNA PRUEBA
   3 Conclusión 3
   
      ![2  PLAN DE VIDA](https://github.com/user-attachments/assets/1037b613-227d-4057-bca7-0a12aaca5460)
+
