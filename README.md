@@ -19,6 +19,10 @@ Este conjunto de datos contiene...   ESTO ES UNA PRUEBA
   2 Conclusión 2
   
   3 Conclusión 3
-  
-     ![2  PLAN DE VIDA](https://github.com/user-attachments/assets/1037b613-227d-4057-bca7-0a12aaca5460)
 
+![9  PLAN DE VIDA](https://github.com/user-attachments/assets/a378a364-654e-4bef-a46a-16cb1ca4dc0f)
+
+
+<img src="https://github.com/user-attachments/assets/a378a364-654e-4bef-a46a-16cb1ca4dc0f" alt="PLAN_DE_VIDA" width="200"/>
+ 
+   
